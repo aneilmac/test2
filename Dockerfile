@@ -1,4 +1,4 @@
-FROM ghcr.io/jamesdbrock/ihaskell-notebook:master@sha256:78e7f89d2ffc716da2ca46f4f02efcc3d3f26147c5f4603686dfff0c3a28dd3d
+FROM ghcr.io/jamesdbrock/ihaskell-notebook:master
 
 USER root
 
